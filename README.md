@@ -19,6 +19,7 @@ Features
 - A player can guess a letter only once. After they’ve guessed a letter, the program disables that letter. 
 
 Installation
+
 To play the game, download the project files and load the index.html file in to your browser.
 
 
