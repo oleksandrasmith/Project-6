@@ -1,6 +1,7 @@
 # Wheel of Success
 
 About This Project
+
 This game was created as a part of JavaScript personal training. A word guessing game where players will click letters from an onscreen keyboard to try to guess a random phrase.
 
 Live Link https://fortuneshow.netlify.app/
